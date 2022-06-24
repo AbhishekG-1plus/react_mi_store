@@ -1,4 +1,4 @@
-Made my first React.js based website using extensive HTML, CSS and Javascritp. 
+Made my first React.js based website using extensive HTML, CSS and Javascript. 
 
 The site, is deployed on Netlify, which can be found here : https://miclone-by-ag.netlify.app/lifestyle
 The site looks like this :
