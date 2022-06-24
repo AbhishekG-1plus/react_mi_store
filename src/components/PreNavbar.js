@@ -7,6 +7,7 @@ const PreNavbar = () => {
     return (
         <div className='PreNav'>
             <div>
+                <a>Coded With Love By Abhishek Gadekar</a>
                 <a href="https://www.mi.com/in/">MI INDIA</a> <span>|</span>
                 <a href="https://in.event.mi.com/in/install-mi-store">GET MI STORE APP</a> <span>|</span>
                 <a href="https://www.mi.com/in/service/help/#category_id=1&pagenum=1&channel=1">ONLINE HELP</a> <span>|</span>
